@@ -92,45 +92,32 @@ We are team of Six, Srikanth Budi, Venkateswara R Kotha, Sai Bharadwaja Uppala, 
 
 
 
-## TEAM ##
+## TEAM 
 
 
 
 | Team member | Roles and skills | Contributions |
-
 |-------------|-------------------------|---------------------------------------------|
-
 | venkateswara kotha | Data analysis, Testing |Data Analysis, Testing, Build Scripts |
-
 | Srikanth Budi | Data analysis, Testing |Data Analysis, Testing, Build Scripts |
-
 | Sai Bharadwaja Uppala | Data Analysis, Python | Development, Data Analysis, Python |
-
 | Sundeep Vuyyuru | Data Analysis, Python | Development, Data Analysis, Python |
-
 | Kesava Parchuri | Testing, Data analysis | Data Analysis, Test Harness; |
-
 | Tarun Goud Madugoni | Testing, Data analysis | Data Analysis, Test Harness; |
-
-
 
 ## DELIVERABLES AND CHECKPOINTS
 
 
-
-The deliverable and checkpoints will be iteratively completed.  At the end of the project, there should be a fair amount of content these tables that details the who, what and when of your project.  Don't worry if you don't have all the deliverables sketched out -- this is a LIVING table, and should be updated frequently by all team members involved in the project.
-
-
-
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
-
 |---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-| 2/12/16 | Initial analysis on IRS data and relations between AGI and Mortgages.  
-
-| All team Members | Check point 1 reached .|
-
+|2/12/16| Initial analysis on IRS data and relations between AGI and Mortgages.  | All team Members   | Check point 1 reached . |
 |     ...          | -- | --                    |  -- |
+
+
+
+
+
+
 
 
 
