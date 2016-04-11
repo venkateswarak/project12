@@ -59,7 +59,7 @@ Research on the analysis on IRS data and relations between AGI and Mortgages wou
 
 
 
-We are planning our models and preliminary analyses will be performed in a Jupyter Notebook and development in python.
+We are planning our models and preliminary analyses will be performed in a Jupyter Notebook using pandas .
 
  
 
@@ -73,7 +73,7 @@ We are planning our models and preliminary analyses will be performed in a Jupyt
 
 
 
-Soon, we will build our initial coding and post the code in our GitHub repository and instructions on installation are in the README.md file at the root level.
+ Posted the code in our GitHub repository and instructions on installation are in the README.md file at the root level.
 
 
 
@@ -99,17 +99,11 @@ We are team of Six, Srikanth Budi, Venkateswara R Kotha, Sai Bharadwaja Uppala, 
 
 | Team member | Roles and skills | Contributions |
 |-------------|-------------------------|---------------------------------------------|
-<<<<<<< HEAD
+
 | venkateswara kotha | Scripting , Data analysis |Data Analysis, Build Scripts |
 | Srikanth Budi | Development , Testing | Testing, Build Scripts |
 | Sai Bharadwaja Uppala | Report creation , Data Analysis  |  Data Analysis  |
 | Sundeep Vuyyuru | Data Analysis, Python |  Data Analysis ,Development   |
-=======
-| venkateswara kotha | Data analysis, Testing |Data Analysis, Testing, Build Scripts |
-| Srikanth Budi | Data analysis, Testing |Data Analysis, Testing, Build Scripts |
-| Sai Bharadwaja Uppala | Data Analysis, Python | Development, Data Analysis, Python |
-| Sundeep Vuyyuru | Data Analysis, Python | Development, Data Analysis, Python |
->>>>>>> parent of 36820eb... Update to checkpoint 2
 | Kesava Parchuri | Testing, Data analysis | Data Analysis, Test Harness; |
 | Tharun Goud Madagouni | Testing, Data analysis | Data Analysis, Test Harness; |
 
@@ -119,17 +113,13 @@ We are team of Six, Srikanth Budi, Venkateswara R Kotha, Sai Bharadwaja Uppala, 
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
 |---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |2/12/16| Initial analysis on IRS data and relations between AGI and Mortgages.  | All team Members   | Check point 1 reached . |
-<<<<<<< HEAD
 |3/8/16|  Collected multiple years data from IRS i.e from 2001. We cannot upload all data as file sizes are more than 100MB which cannot be stored in Github  ,we would like to upload it google drive . So we need to write a script to pull the data online.and in process of aggregating the data and remove unwanted columns and just focus on returns. And would like to see at ways to develop visualization from the data.| All Team Members |  Uploded Inital Data to GDrive. |
 | 3/20/16 | As the data set is more than 100 MB would upload it to google drive and provide the destination folder .Will also answer/update the research question depending upon the results seen in initial analysis |  Sai Bharadwaja Uppala ,Kesava Parchuri ,Tharun Goud Madagouni|  uploaded the irs file  |
-| 4/3/16 | Would ensure that project code develoment is done and testing is done such that visualization results show up successfull .| venkateswara kotha,Srikanth Budi ,Sundeep Vuyyuru  |                      |
-| 4/17/16 | Complete the testing and project a visualization results    |  Sai Bharadwaja Uppala,Kesava Parchuri ,Tharun Goud Madagouni  |           |
+| 4/3/16 | Would ensure that project code development is done and testing is done such that visualization results show up successfull .| venkateswara kotha,Srikanth Budi ,Sundeep Vuyyuru  |                      |
+| 4/17/16 | Complete the testing and project a visualization results    |  Sai Bharadwaja Uppala,Kesava Parchuri ,Tharun Goud Madagouni  |           |                 |  
 | 4/25/16 | Present a final report of the project  | All Team Members |           |
 
 
-=======
-|3/8/16|  Collected multiple years data from IRS i.e from 2001. We cannot upload all data as file sizes are more than 100MB which cannot be stored in Github  ,we would like to upload it google drive . So we need to write a script to pull the data online.and in process of aggregating the data and remove unwanted columns and just focus on returns. And would like to see at ways to develop visualization from the data.| All team Members |   |
->>>>>>> parent of 36820eb... Update to checkpoint 2
 
 
 
