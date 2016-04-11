@@ -95,11 +95,8 @@ We are team of Six, Srikanth Budi, Venkateswara R Kotha, Sai Bharadwaja Uppala, 
 
 ## TEAM 
 
-
-
 | Team member | Roles and skills | Contributions |
 |-------------|-------------------------|---------------------------------------------|
-
 | venkateswara kotha | Scripting , Data analysis |Data Analysis, Build Scripts |
 | Srikanth Budi | Development , Testing | Testing, Build Scripts |
 | Sai Bharadwaja Uppala | Report creation , Data Analysis  |  Data Analysis  |
