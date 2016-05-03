@@ -129,8 +129,8 @@ We are team of Six, Srikanth Budi, Venkateswara R Kotha, Sai Bharadwaja Uppala, 
 |3/8/16|  Collected multiple years data from IRS i.e from 2001. We cannot upload all data as file sizes are more than 100MB which cannot be stored in Github  ,we would like to upload it google drive . So we need to write a script to pull the data online.and in process of aggregating the data and remove unwanted columns and just focus on returns. And would like to see at ways to develop visualization from the data.| All Team Members |  Uploded Inital Data to GDrive. |
 | 3/20/16 | As the data set is more than 100 MB would upload it to google drive and provide the destination folder .Will also answer/update the research question depending upon the results seen in initial analysis |  Sai Bharadwaja Uppala ,Kesava Parchuri ,Tharun Goud Madagouni|  uploaded the irs file  |
 | 4/3/16 | Would ensure that project code development is done and testing is done such that visualization results show up successfull .| venkateswara kotha,Srikanth Budi ,Sundeep Vuyyuru  |  Plotted the results using Matplot Lob    |
-| 4/17/16 | Complete the testing and project a visualization results    |  Sai Bharadwaja Uppala,Kesava Parchuri ,Tharun Goud Madagouni  |           |                 |  
-| 05/01/16 |Documentaed the resulst and Our results show that , California is in a cluster which has more ppm Arizona is in the middle and North Dakota is part of the cluster which has least ppm. | All Team Members |           |
+| 4/17/16 | Completed the testing and project a visualization results    |  Sai Bharadwaja Uppala,Kesava Parchuri ,Tharun Goud Madagouni  |       The data was clustered into 3 clusters using k-means clustering algorithm     |                 |  
+| 05/01/16 |Documentaed the results and complete project   | All Team Members |     Our results show that , California is in a cluster which has more ppm Arizona is in the middle and North Dakota is part of the cluster which has least ppm.      |
 
 
 
